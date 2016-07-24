@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6057348
+  lightness: 0.7275985
+  brandStrength: 0.9874552
+  brandColors:
+    - '#82CBD2'
+    - '#FFFFFF'
+    - '#727272'
+    - '#000000'
+    - '#FFCD00'
+  rhythmicContrast: 0.797491
+typography_spectrum: 0.6523297
+name: CapicuaTest
