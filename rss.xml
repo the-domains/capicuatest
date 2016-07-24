@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CapicuaTest]]></title>
+        <description><![CDATA[CapicuaTest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jul 2016 05:24:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Most Important Design Jobs Of The Future]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a328644f-2e75-4161-ab70-ded54e2df052.jpg">]]></description>
+            <link>http://www.fastcodesign.com/3054433/design-moves/the-most-important-design-jobs-of-the-future</link>
+            <guid isPermaLink="false">4993fe07-ee3a-41b4-b530-2e23fbf78d13</guid>
+            <pubDate>Sun, 24 Jul 2016 05:24:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
